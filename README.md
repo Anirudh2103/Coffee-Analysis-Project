@@ -21,12 +21,5 @@ Coffee is a globally consumed beverage, and understanding the trends and prefere
 - Basic understanding on excel functions.
 - Basic understanding on pivot table and charts. 
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   $ git clone https://github.com/your-username/coffee-analysis.git
-   $ cd coffee-analysis
-
 ## Data Sources 
 This data is downloaded from https://www.youtube.com/watch?v=m13o5aqeCbM
