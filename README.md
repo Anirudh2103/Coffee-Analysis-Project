@@ -7,7 +7,7 @@ Welcome to the Coffee Analysis Project! This project aims to analyze various asp
 - [Introduction](#introduction)
 - [Prerequisite](#Prerequisite)
 - [Data Sources](#data-sources)
-- [Understanding the data](#Understanding the data)
+- [Understanding the data](#Understanding-the-data)
 - 
   
 
