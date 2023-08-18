@@ -22,4 +22,65 @@ Coffee is a globally consumed beverage, and understanding the trends and prefere
 - Basic understanding on pivot table and charts. 
 
 ## Data Sources 
-This data is downloaded from https://www.youtube.com/watch?v=m13o5aqeCbM
+This data is downloaded from https://github.com/mochen862/excel-project-coffee-sales
+
+## Understanding the data
+
+- We have 3 excel sheets Orders, Customers and Products. We want to create a sheet which will combine all the required data from all 3 sheets.
+- We need to pull the required data from Customers and Products page to Orders page.
+- Step 1: If you look at the orders and customers tab, you will notice customer ID is a unique value. The XLOOKUP function is used to pull customer name, email and country from customers sheet to orders sheet.
+  =XLOOKUP(orders!C2,customers!$A:$A,customers!$B:$B,,0)
+  =IF(XLOOKUP(C2,customers!$A:$A,customers!$C:$C,,0)=0,"", XLOOKUP(C2,customers!$A:$A,customers!$C:$C,,0))
+  =XLOOKUP(C2,customers!$A$1:$A$1001,customers!$G$1:$G$1001,,0)
+- If you want to display the blank spaces with any words, you need to use IF function with XLOOKUP function
+- Step 2:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
