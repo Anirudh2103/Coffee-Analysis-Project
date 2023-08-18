@@ -1,8 +1,6 @@
 # Coffee Analysis Project
 
-![Coffee Analysis](coffee_analysis.png)
-
-Welcome to the Coffee Analysis Project! This project aims to analyze various aspects of coffee preferences, trends, and data. Whether you're a coffee enthusiast, a data scientist, or just curious about coffee consumption patterns, this project has something for you.
+Welcome to the Coffee Analysis Project! This project aims to analyze various aspects of coffee preferences, trends, and sales of a company. 
 
 ## Table of Contents
 
@@ -16,7 +14,7 @@ Welcome to the Coffee Analysis Project! This project aims to analyze various asp
 
 ## Introduction
 
-Coffee is a globally consumed beverage, and understanding the trends and preferences related to coffee can provide valuable insights. The Coffee Analysis Project is a collection of scripts, notebooks, and visualizations that explore coffee-related data to uncover interesting patterns and findings.
+Coffee is a globally consumed beverage, and understanding the trends and preferences related to coffee can provide valuable insights. In this project, you will see how we can pull the information from other excel sheets using XLOOKUP and INDEX fucntions in Excel. You will also see how we can combine all the data and make it a visual dashboard which shows all the information that we need in a visual format. 
 
 ## Features
 
