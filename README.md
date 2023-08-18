@@ -5,12 +5,11 @@ Welcome to the Coffee Analysis Project! This project aims to analyze various asp
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Prerequisite](#Prerequisite)
 - [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
+- [Understanding the data](#Understanding the data)
+- 
+  
 
 ## Introduction
 
