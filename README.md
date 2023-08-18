@@ -1,4 +1,4 @@
-![image](https://github.com/Anirudh2103/Coffee-Analysis-Project/assets/142172393/f34b3d9e-d9b0-4dfb-9656-51f4a8bc6b00)# Coffee Analysis Project
+# Coffee Analysis Project
 
 Welcome to the Coffee Analysis Project! This project is dedicated to delving into diverse aspects of coffee preferences, trends, and sales within a company.
 
@@ -67,6 +67,11 @@ The dataset used in this project is sourced from [this GitHub repository](https:
    
    ![image](https://github.com/Anirudh2103/Coffee-Analysis-Project/assets/142172393/3ab0b9b7-cd14-478d-b5fa-b9f61d5162b4)
 
+## Final Dashboard
+
+- Once all the charts are ready, created a new sheet and moved all those charts to this sheet and re-arranged as follows: 
+
+  ![image](https://github.com/Anirudh2103/Coffee-Analysis-Project/assets/142172393/b72017d7-5fe8-4508-971f-58d5b54bf49a)
 
 
 
